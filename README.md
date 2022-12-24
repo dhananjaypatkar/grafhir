@@ -1,4 +1,4 @@
-# grapfhir
+# grafhir
 This is an attempt to load FHIR R4 json files into a graph data model for running graph analytics to build applications for chronic care management, Population health etc.
 
 Current data loading is simple per patient.
