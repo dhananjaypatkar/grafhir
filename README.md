@@ -1,6 +1,9 @@
 # grafhir
 This is an attempt to load FHIR R4 json files into a graph data model for running graph analytics to build applications for chronic care management, Population health etc.
 
+## Introduction
+Current set of artifacts, loads FHIR for multiple patients and runs similarity alogorithms on different dimensions.
+
 Current data loading is simple per patient.
 Here we link patient with conditions, encounters, medications, procedures, observations.
 ![](images/patient_clinical_graph.PNG)
